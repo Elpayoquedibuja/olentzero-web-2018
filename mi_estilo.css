@@ -1,0 +1,12 @@
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+body {
+  font-family: verdana;
+  color: #37474f;
+}
+
+.container {
+  align-content: ;
+  width: 26rem;
+  margin: 1em auto 0;
+}
